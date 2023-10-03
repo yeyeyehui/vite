@@ -19,7 +19,6 @@ replace.sh
 dist
 srm-dist
 build
-lib
 
 # misc
 .DS_Store
